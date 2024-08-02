@@ -1,5 +1,3 @@
-ID:25152
-
 Assignment:
 ---------------------
 
@@ -8,6 +6,7 @@ Assignment:
 Logging: Logging is a mechanism to capture the message or information about program workflow. These are some information related to the program, for example when an event happens or what is a state of the program or errors/unusual condition occurs etc.
 
 2. Why Logging is Important
+---------------------------
 
 Logging is important because:
 
@@ -19,8 +18,9 @@ Chief Outcomes: Audit Trail - It is an important outcome for security and compli
 
 Logs analysis : Analyzing logs to see which functionalities are used how much so that we can prioritize on improvements of the application.
 
-3. Understanding Logging Levels
 
+3. Understanding Logging Levels
+-------------------------------
 So if atleast you know what these logging levels are then it will make sure that the log messages of your application would have been segregated properly... Logging levels Most common logging type consists of following logs:
 
 TRACE: More detailed information useful from a diagnostic point of view
